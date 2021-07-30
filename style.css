@@ -1,0 +1,45 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+.body{
+    font-family: 'Poppins', sans-serif;
+}
+/* banner-section */
+
+.bg-banner{
+    background-color: #264653;
+}
+
+.text-color{
+    color:#E76F51;
+}
+
+.honda-btn{
+    background-color: #E76F51;
+    padding: 10px;
+    border-radius: 5px;
+    Width: 168px;
+    Height: 44px;
+    color: white;
+    margin:0;
+    border: none;
+}
+
+
+/* feature bike section */
+.byke-size{
+    width: 230px;
+    height: 243px;
+}
+.color-convert{
+    filter: grayscale(100%);
+}
+
+/* happy customer section */
+.icon-fill{
+    color: #cf4d2c;
+}
+
+.icon-border{
+    color: #cf4d2c;
+}
